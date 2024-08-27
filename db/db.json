@@ -1,0 +1,84 @@
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "name": "Pizza Margherita",
+      "image": "https://www.pizzapatron.com/wp-content/uploads/2022/01/patrona-supreme.webp",
+      "price": 5.99,
+      "base": "tomato",
+      "ingredients": ["tomato", "mozzarella", "basil"]
+    },
+    {
+      "id": 2,
+      "name": "Pizza Marinara",
+      "image": "https://les-pizzas.laptitepoulerouge.com/wp-content/uploads/2021/03/pizzeria-template-header-pizza-img.png",
+      "price": 6.99,
+      "base": "tomato",
+      "ingredients": ["tomato", "garlic", "oregano"]
+    },
+    {
+      "id": 3,
+      "name": "Pizza Quattro Stagioni",
+      "image": "https://letakeaway.fr/wp-content/uploads/2019/10/pizza-normande-min-600x600.png",
+      "price": 7.99,
+      "base": "tomato",
+      "ingredients": ["tomato", "mozzarella", "mushrooms", "artichokes", "olives", "anchovies"]
+    },
+    {
+      "id": 4,
+      "name": "Pizza 4 Formaggi",
+      "image": "https://www.pizzapatron.com/wp-content/uploads/2022/01/patrona-supreme.webp",
+      "price": 8.99,
+      "base": "creme",
+      "ingredients": ["creme", "mozzarella", "gorgonzola", "parmesan", "pecorino"]
+    },
+    {
+      "id": 5,
+      "name": "Pizza Salmon",
+      "image": "https://www.pizzapatron.com/wp-content/uploads/2022/01/patrona-supreme.webp",
+      "price": 9.99,
+      "base": "creme",
+      "ingredients": ["creme", "mozzarella", "smoked salmon", "rocket", "lemon"]
+    },
+    {
+      "id": 6,
+      "name": "Pizza Prosciutto",
+      "image": "https://www.pizzapatron.com/wp-content/uploads/2022/01/patrona-supreme.webp",
+      "price": 10.99,
+      "base": "tomato",
+      "ingredients": ["tomato", "mozzarella", "ham"]
+    },
+    {
+      "id": 7,
+      "name": "Pizza Diavola",
+      "image": "https://www.pizzapatron.com/wp-content/uploads/2022/01/patrona-supreme.webp",
+      "price": 11.99,
+      "base": "tomato",
+      "ingredients": ["tomato", "mozzarella", "spicy salami"]
+    },
+    {
+      "id": 8,
+      "name": "Pizza Capricciosa",
+      "image": "https://www.pizzapatron.com/wp-content/uploads/2022/01/patrona-supreme.webp",
+      "price": 12.99,
+      "base": "tomato",
+      "ingredients": ["tomato", "mozzarella", "ham", "mushrooms", "artichokes", "olives"]
+    },
+    {
+      "id": 9,
+      "name": "Pizza Vegetariana",
+      "image": "https://www.pizzapatron.com/wp-content/uploads/2022/01/patrona-supreme.webp",
+      "price": 13.99,
+      "base": "tomato",
+      "ingredients": ["tomato", "mozzarella", "peppers", "onions", "mushrooms", "olives"]
+    },
+    {
+      "id": 10,
+      "name": "Pizza 4 Stagioni",
+      "image": "https://www.pizzapatron.com/wp-content/uploads/2022/01/patrona-supreme.webp",
+      "price": 14.99,
+      "base": "tomato",
+      "ingredients": ["tomato", "mozzarella", "ham", "mushrooms", "artichokes", "olives", "anchovies"]
+    }
+  ]
+}
